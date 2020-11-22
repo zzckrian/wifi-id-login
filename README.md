@@ -1,6 +1,7 @@
 # WIFI ID Auto Login
 Tool untuk login @wifi.id secara otomatis.
-
+Code By : Bintang
+Re-Code + Tweak By : zzckrian
 ## CARA INSTALL
 
 $ pkg update
@@ -27,5 +28,3 @@ https://welcome2.wifi.id/login/?gw_id=xxx-xx-xxx&client_mac=xx:xx:xx:xx:xx:xx&wl
 
 ## Contribute
 
-```Garuda Terisakti 72
-```zzckrian
