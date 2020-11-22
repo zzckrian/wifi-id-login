@@ -1,4 +1,4 @@
-# WIFI ID Auto Login 2019
+# WIFI ID Auto Login
 Tool untuk login @wifi.id secara otomatis.
 
 ## CARA INSTALL
@@ -11,7 +11,7 @@ $ apt install nodejs
 
 $ cd /storage
 
-$ git clone https://github.com/Bintang73/wifi-id.git
+$ git clone https://github.com/zzckrian/wifi-id-login
 
 $ cd wifi-id
 
@@ -28,3 +28,4 @@ https://welcome2.wifi.id/login/?gw_id=xxx-xx-xxx&client_mac=xx:xx:xx:xx:xx:xx&wl
 ## Contribute
 
 ```Garuda Terisakti 72
+```zzckrian
