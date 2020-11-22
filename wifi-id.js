@@ -99,7 +99,7 @@ function processx(){
 console.log("\n==============================================\n\n=======> TOOLS AUTO CONNECT WIFI-ID <=======\n\n============================================== \n|| +--------------------------------------+ ||\n|| | Creator : Bintang Nur Pradana        | ||\n|| +--------------------------------------+ ||\n|| | Facebook : Bintang Nur Pradana       | ||\n|| | WhatsApp : 081329896085              | ||\n|| | Team : Garuda Terisakti 72           | ||\n|| +--------------------------------------+ ||\n============================================== \n");
 readi.question("Pastekan link url Wifi-Id \n\nContoh: https://welcome2.wifi.id/login/?gw_id=xxx-xx-xxx&client_mac=xx:xx:xx:xx:xx:xx&wlan=XXXXXXXXXXX/XXX-XXXXXXXX-XXXX:@wifi.id&sessionid=XXXXXXXXXXXXXXXX-XXXXXXXX&redirect=http://8.8.8.8/ \n\n(http/s): ",(ix) => {
   if(ix.length==0){
-    console.log("\nURL Salah Bre! \nMasukan Url dengan benar!\n");
+    console.log("\nURL Salah jing! \nMasukan Url dengan benar!\n");
     fexit();
   }
 
