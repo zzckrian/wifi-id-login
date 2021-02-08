@@ -30,4 +30,4 @@ https://welcome2.wifi.id/login/?gw_id=xxx-xx-xxx&client_mac=xx:xx:xx:xx:xx:xx&wl
 ```
 
 ## Contribute
-
+Empty for now.
