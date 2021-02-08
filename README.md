@@ -3,7 +3,7 @@ Tool untuk login @wifi.id secara otomatis.
 
 Code By : Bintang
  
-Re-Code + Tweak By : zzckrian
+Tweak By : zzckrian
 
 ## CARA INSTALL
 
